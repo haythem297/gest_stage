@@ -1,0 +1,169 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{    
+    background: linear-gradient(-45deg, #EE7752, #E73C7E,#23A6D5,#23D5AB);
+    background-size: 400% 400%;
+    animation: bganimate 10s ease-in-out infinite;
+    font-family: sans-serif;
+}
+@keyframes bganimate{
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
+.container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.formHold{
+    background: #FFF;
+    border-radius: 10px;
+    width:450px;
+}
+.formHold.subscribe{width:550px;}
+.logoh{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.frmlogin,.frmsubscribe{
+    background:#fff;
+    padding:25px;
+    border-radius: 0 0 10px 10px;
+}
+
+.form-group input{
+    outline:0;
+    width:100%;
+    padding:10px;
+    border:1px solid #DDD;
+    transition: all .2s linear;
+}
+.form-group{
+    position: relative;
+    margin-top:10px;
+}
+.form-group label{
+    pointer-events: none;
+    position: absolute;
+    left:0;
+    padding:10px 0 0 10px;
+    transition: all .1s linear;
+    background: transparent;
+}
+.form-group input:focus{
+    border:1px solid #9377ee;
+}
+.form-group input:not(:placeholder-shown) ~ label, .form-group input:focus ~ label, .form-group select:not(.empty) ~ label, .form-group select:focus ~ label, .form-group textarea:not(:placeholder-shown) ~ label, .form-group textarea:focus ~ label{
+    color: #5555d1;
+    background: #fff;
+    font-weight: bold;
+    padding: 0 5px 0 5px;
+    transform: translateY(-0.5rem) scale(.8);
+}
+.btn-primary{
+    background-image: linear-gradient(to right, #9377ee 0%, #6465d7 51%, #5555d1 100%);
+    border:none;
+    padding:15px;
+    color:#FFF;
+    outline:0;
+    font-weight: bolder;
+    background-size: 200% auto;
+    transition: .2s;
+}
+.btn-primary:hover{
+    background-position: right;
+    color:#FFFFFF;
+}
+.msg{
+    display:none;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 700;
+    padding: 11px;
+}
+.msg.error{
+    background: #f43636ab;
+}
+.msg.success{
+    background: #11af36ab;
+}
+.radio{
+    width:50px!important;
+}
+.form-group > .element{
+    display:inline-block;
+    position:relative;
+    padding:10px;
+}
+.form-group >.element >label{
+    left: 35px;
+    top: 17px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+
+.form-group select {
+    outline: none;
+    width: 100%;
+    height: 2.9em;
+    border: 1px solid #DDD;
+    padding: 10px;
+}
+.btn-add {
+    background: #9b7aee;
+    color: #FFF;
+    transition: .3s;
+}
+.btn-add:hover{
+    background:#ab8ff2;
+    color:#FFF;
+}
+.hidden{display:none;}
+.flex-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-group .chk {
+    width: auto;
+}
+.flex{
+    display:flex;
+}
+.form-group input, .form-group textarea {
+    outline: 0;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #DDD;
+    transition: all .2s linear;
+}
+.form-group label {
+    pointer-events: none;
+    position: absolute;
+    left: 0;
+    padding: 10px 0 0 10px;
+    transition: all .1s linear;
+    background: transparent;
+}

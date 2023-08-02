@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0a8cd11-9a1d-4094-a663-06e124e6c733" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Content-Transfer-Encoding:</find>
+      <find>core</find>
+      <find>Content-Type</find>
+      <find>output</find>
+      <find>Content-Transfer-</find>
+      <find>Content-Transfer-Encoding</find>
+      <find>Content-Disposition</find>
+      <find>Content-Type: application</find>
+      <find>end_last_page</find>
+      <find>text-ali</find>
+      <find>counta</find>
+      <find>font-</find>
+      <find>font-f</find>
+      <find>meta</find>
+      <find>span</find>
+      <find>href</find>
+      <find>trackin</find>
+      <find>institut</find>
+      <find>form</find>
+      <find>aja</find>
+      <find>$en_cours</find>
+      <find>submit</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\laragon\www\gest_stage\vendor\spipu</dir>
+      <dir>C:\laragon\www\gest_stage\vendor</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/spipu/html2pdf" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="20" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectId" id="1wgvltG3Tu6NUAtQcwE17VN8bRl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\gest_stage\queries" />
+      <recent name="C:\laragon\www\gest_stage\libraries\Html2Pdf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a8cd11-9a1d-4094-a663-06e124e6c733" name="Default Changelist" comment="" />
+      <created>1625585669087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625585669087</updated>
+      <workItem from="1625585670216" duration="550000" />
+      <workItem from="1625728577758" duration="1859000" />
+      <workItem from="1625995985947" duration="2119000" />
+      <workItem from="1626001656940" duration="9633000" />
+      <workItem from="1626036209140" duration="639000" />
+      <workItem from="1626511345492" duration="5000" />
+      <workItem from="1626511389132" duration="735000" />
+      <workItem from="1626515636786" duration="1297000" />
+      <workItem from="1626553821869" duration="865000" />
+      <workItem from="1626605669597" duration="12913000" />
+      <workItem from="1628058818132" duration="5739000" />
+      <workItem from="1628108579075" duration="5147000" />
+      <workItem from="1628147467724" duration="9826000" />
+      <workItem from="1628229612013" duration="9294000" />
+      <workItem from="1628244873833" duration="66000" />
+      <workItem from="1628245515242" duration="2479000" />
+      <workItem from="1628281835773" duration="27000" />
+      <workItem from="1628282291535" duration="617000" />
+      <workItem from="1628285380235" duration="852000" />
+      <workItem from="1628286433016" duration="5000" />
+      <workItem from="1628286478047" duration="953000" />
+      <workItem from="1628288995576" duration="15000" />
+      <workItem from="1628893202682" duration="6461000" />
+      <workItem from="1628929991974" duration="4251000" />
+      <workItem from="1628951720518" duration="1437000" />
+      <workItem from="1628977447946" duration="4596000" />
+      <workItem from="1629123434765" duration="586000" />
+      <workItem from="1629152089366" duration="877000" />
+      <workItem from="1629187852392" duration="806000" />
+      <workItem from="1629282396298" duration="5569000" />
+      <workItem from="1629322961388" duration="5275000" />
+      <workItem from="1629359926565" duration="2311000" />
+      <workItem from="1629458226606" duration="4845000" />
+      <workItem from="1629541699735" duration="8074000" />
+      <workItem from="1629583801330" duration="1639000" />
+      <workItem from="1629628182189" duration="7931000" />
+      <workItem from="1629671321643" duration="1378000" />
+      <workItem from="1629802273402" duration="1820000" />
+      <workItem from="1629889411972" duration="1367000" />
+      <workItem from="1629962801574" duration="3804000" />
+      <workItem from="1630048763069" duration="6000" />
+      <workItem from="1630048807871" duration="1891000" />
+      <workItem from="1630063774595" duration="350000" />
+      <workItem from="1630344521227" duration="1054000" />
+      <workItem from="1637422524838" duration="31000" />
+      <workItem from="1642927378627" duration="2383000" />
+      <workItem from="1643010917650" duration="776000" />
+      <workItem from="1643012141165" duration="115000" />
+      <workItem from="1643013589551" duration="2164000" />
+      <workItem from="1643116479087" duration="19000" />
+      <workItem from="1643117089923" duration="1235000" />
+      <workItem from="1643208741144" duration="774000" />
+      <workItem from="1644400009040" duration="149000" />
+      <workItem from="1644401007777" duration="367000" />
+      <workItem from="1644401399802" duration="18000" />
+      <workItem from="1644503407238" duration="505000" />
+      <workItem from="1644567367626" duration="69000" />
+      <workItem from="1644573776282" duration="241000" />
+      <workItem from="1644586382739" duration="288000" />
+      <workItem from="1644586875795" duration="136000" />
+      <workItem from="1644587315553" duration="108000" />
+      <workItem from="1644591466496" duration="318000" />
+      <workItem from="1644592432018" duration="96000" />
+      <workItem from="1662020596776" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/new_trainee.php</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/gest_certificate_templates.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

